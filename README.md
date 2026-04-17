@@ -89,6 +89,6 @@ La capital de Francia es París.
 - `.env`: Archivo de configuración con la clave de API (no incluido en el repositorio).
 
 ## Equipo de Desarrollo
-Juan Morales  C.I.: 30916541
-Omaira Rodriguez C.I.: 15351394
-Keiber Mendina C.I.: 31401788
+- Juan Morales  C.I.: 30916541
+- Omaira Rodriguez C.I.: 15351394
+- Keiber Mendina C.I.: 31401788
